@@ -1,0 +1,18 @@
+.pinkclass {
+    background-color: rgb(235, 160, 158);
+    font-family: 'Verdana', DejaVu sans, sans-serif;
+}
+
+#numbertwo {
+    color: rgb(17, 14, 167);
+    font-size: 36px;
+}
+
+.size24px {
+    font-size: 24px;
+}
+
+#numberfour {
+    background-color: rgb(84, 155, 84);
+    font-weight: bold;
+}
